@@ -14,3 +14,4 @@ neon-build = "0.1.19"
 
 [dependencies]
 neon = "0.1.19"
+cslice = "0.3.0"
